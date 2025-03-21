@@ -33,6 +33,7 @@
   </div>
 </body>
 ```
+# Output:
 
 # The Brown Bear
 
@@ -63,9 +64,4 @@ Some countries with smaller brown bear populations include Armenia, Belarus, Bul
 ## Media
 ![A Brown Bear](https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg)
 
-<video width="320" height="240" controls>
-  <source src="https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" type="video/mp4">
-  Video not supported
-</video>
-
-
+[Watch the Brown Bear Video](https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4)
